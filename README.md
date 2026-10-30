@@ -211,9 +211,13 @@ Keep documentation current, version releases clearly, and make installation and 
 
 <br/>
 
-<a href="https://github.com/Dr-SuBZeRo">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dr-SuBZeRo&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub profile trophies" />
-</a>
+<strong>Featured project stars</strong>
+
+<br/><br/>
+
+<a href="https://github.com/Dr-SuBZeRo/MargiQ"><img src="https://img.shields.io/github/stars/Dr-SuBZeRo/MargiQ?style=for-the-badge&logo=github&label=MargiQ%20stars&color=0F766E" alt="MargiQ GitHub stars" /></a>
+<a href="https://github.com/Dr-SuBZeRo/CashQ"><img src="https://img.shields.io/github/stars/Dr-SuBZeRo/CashQ?style=for-the-badge&logo=github&label=CashQ%20stars&color=123B5D" alt="CashQ GitHub stars" /></a>
+<a href="https://github.com/Dr-SuBZeRo/StockQ"><img src="https://img.shields.io/github/stars/Dr-SuBZeRo/StockQ?style=for-the-badge&logo=github&label=StockQ%20stars&color=0F766E" alt="StockQ GitHub stars" /></a>
 
 </div>
 
