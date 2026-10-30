@@ -71,7 +71,7 @@ I bring a problem-solving mindset to software development: understand the real w
 
 A native Android profit and margin analysis tool for Indian retail and pharmaceutical pricing workflows.
 
-<a href="https://github.com/Dr-SuBZeRo/MargiQ/releases"><img src="https://img.shields.io/badge/Release-v2.1.3-0F766E?style=flat-square&logo=android" alt="MargiQ release" /></a>
+<a href="https://github.com/Dr-SuBZeRo/MargiQ/releases/latest"><img src="https://img.shields.io/github/v/release/Dr-SuBZeRo/MargiQ?display_name=tag&label=Latest&style=flat-square&logo=android&color=0F766E" alt="MargiQ latest release" /></a>
 
 - Profit, margin, markup, and unit-cost analysis.
 - Tax-inclusive and tax-exclusive pricing.
@@ -89,7 +89,7 @@ A native Android profit and margin analysis tool for Indian retail and pharmaceu
 
 An offline-first Indian Rupee cash counter for notes and coins, built for fast, accurate everyday cash handling.
 
-<a href="https://github.com/Dr-SuBZeRo/CashQ/releases"><img src="https://img.shields.io/badge/Release-v1.2.0-0F766E?style=flat-square&logo=android" alt="CashQ release" /></a>
+<a href="https://github.com/Dr-SuBZeRo/CashQ/releases/latest"><img src="https://img.shields.io/github/v/release/Dr-SuBZeRo/CashQ?display_name=tag&label=Latest&style=flat-square&logo=android&color=0F766E" alt="CashQ latest release" /></a>
 
 - Live denomination totals and Indian number formatting.
 - Notes-only and configurable coin counting.
@@ -108,6 +108,8 @@ An offline-first Indian Rupee cash counter for notes and coins, built for fast, 
 <strong>A practical toolkit for small-business stock management.</strong>
 
 An offline-first Android inventory and business operations project for Indian retailers and shopkeepers.
+
+<a href="https://github.com/Dr-SuBZeRo/StockQ/releases/latest"><img src="https://img.shields.io/github/v/release/Dr-SuBZeRo/StockQ?display_name=tag&label=Latest&style=flat-square&logo=android&color=0F766E" alt="StockQ latest release" /></a> <a href="https://github.com/Dr-SuBZeRo/StockQ/releases">View releases</a>
 
 - Product catalogue, stock movements, and purchase entries.
 - Supplier records, price comparison, and reorder planning.
