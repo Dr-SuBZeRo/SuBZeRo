@@ -123,7 +123,7 @@ An offline-first Android inventory and business operations project for Indian re
 <div align="center">
   <a href="https://github.com/Dr-SuBZeRo?tab=repositories"><strong>Explore all repositories →</strong></a>
   <br/><br/>
-  <img src="https://media.giphy.com/media/13HgwGsxfjeN6pG4?cid=ecf05e47z9y2lfg3zba6v49p1k5b6bxo8x2b1f2c4e1bf4d8&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" alt="Animated pixel-art coding scene" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Animated pixel-art coding scene" />
 </div>
 
 <div align="center">
@@ -224,7 +224,7 @@ My focus is to grow a portfolio of dependable, focused Android utilities for rea
 I value steady product improvement, clean implementation, thoughtful interface design, and long-term maintainability over shipping features just to increase feature count.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="320" alt="Animated neon progress bar" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320" alt="Animated neon progress bar" />
 </div>
 
 <div align="center">
