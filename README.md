@@ -10,7 +10,7 @@
 <a href="https://github.com/Dr-SuBZeRo?tab=followers"><img src="https://img.shields.io/github/followers/Dr-SuBZeRo?style=for-the-badge&logo=github&label=Followers" alt="Followers" /></a>
 </p>
 
-### Physician 路 Independent Android Developer 路 Product Builder
+### Physician | Independent Android Developer | Product Builder
 
 **I build practical Android applications that make everyday work simpler, clearer, and more reliable.**
 
@@ -23,33 +23,33 @@
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
 </p>
 
-[Projects](#-featured-projects) 路 [Technology](#-technology--tools) 路 [Engineering](#-how-i-build) 路 [Connect](#-connect)
+[Projects](#-featured-projects) | [Technology](#-technology--tools) | [Engineering](#-how-i-build) | [Connect](#-connect)
 
 </div>
 
 ---
 
-## 馃憢 About
+##  About
 
 I'm **SuBZeRo**, a physician and independent Android developer based in **Tamil Nadu, India**.
 
 I bring a problem-solving mindset to software development: understand the real workflow, identify what matters, and build a focused tool people can depend on. My current work centres on native Android applications using **Kotlin**, **Jetpack Compose**, and modern Android development practices.
 
-- 馃摫 Building native Android applications from the ground up.
-- 馃М Developing tools for retail, pharmacy, inventory, and everyday business workflows.
-- 馃П Working with layered architecture, reactive UI state, and local-first data.
-- 馃И Prioritising correctness through unit tests, validation, and edge-case handling.
-- 馃攼 Favouring privacy-conscious products with transparent, user-controlled behaviour.
+-  Building native Android applications from the ground up.
+-  Developing tools for retail, pharmacy, inventory, and everyday business workflows.
+-  Working with layered architecture, reactive UI state, and local-first data.
+-  Prioritising correctness through unit tests, validation, and edge-case handling.
+-  Favouring privacy-conscious products with transparent, user-controlled behaviour.
 
 > **My approach:** useful features, dependable engineering, and no unnecessary complexity.
 
-## 馃殌 Featured projects
+##  Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 馃М [MargiQ](https://github.com/Dr-SuBZeRo/MargiQ)
+###  [MargiQ](https://github.com/Dr-SuBZeRo/MargiQ)
 **Know your cost. Own your margin.**
 
 A native Android profit and margin analysis tool for Indian retail and pharmaceutical pricing workflows.
@@ -61,12 +61,12 @@ A native Android profit and margin analysis tool for Indian retail and pharmaceu
 - Supplier offer and product comparisons.
 - Product library and local calculation history.
 
-[View repository 鈫抅(https://github.com/Dr-SuBZeRo/MargiQ)
+[View repository ->](https://github.com/Dr-SuBZeRo/MargiQ)
 
 </td>
 <td width="50%" valign="top">
 
-### 馃挼 [CashQ](https://github.com/Dr-SuBZeRo/CashQ)
+###  [CashQ](https://github.com/Dr-SuBZeRo/CashQ)
 **Count cash. Stay accurate.**
 
 An offline-first Indian Rupee cash counter for notes and coins, built for fast, accurate everyday cash handling.
@@ -78,14 +78,14 @@ An offline-first Indian Rupee cash counter for notes and coins, built for fast, 
 - Saved counting sessions and history.
 - Shareable text, image, and HTML email summaries.
 
-[View repository 鈫抅(https://github.com/Dr-SuBZeRo/CashQ)
+[View repository ->](https://github.com/Dr-SuBZeRo/CashQ)
 
 </td>
 </tr>
 <tr>
 <td colspan="2">
 
-### 馃摝 [StockQ](https://github.com/Dr-SuBZeRo/StockQ)
+###  [StockQ](https://github.com/Dr-SuBZeRo/StockQ)
 **A practical toolkit for small-business stock management.**
 
 An offline-first Android inventory and business operations project for Indian retailers and shopkeepers.
@@ -95,15 +95,15 @@ An offline-first Android inventory and business operations project for Indian re
 - Inventory valuation and low-stock visibility.
 - Backup and restore through Android's Storage Access Framework.
 
-[View repository 鈫抅(https://github.com/Dr-SuBZeRo/StockQ)
+[View repository ->](https://github.com/Dr-SuBZeRo/StockQ)
 
 </td>
 </tr>
 </table>
 
-<p align="center"><a href="https://github.com/Dr-SuBZeRo?tab=repositories"><strong>Browse all repositories 鈫�</strong></a></p>
+<p align="center"><a href="https://github.com/Dr-SuBZeRo?tab=repositories"><strong>Browse all repositories -></strong></a></p>
 
-## 馃О Technology & tools
+##  Technology & tools
 
 | Area | Tools and technologies |
 |:--|:--|
@@ -119,29 +119,29 @@ An offline-first Android inventory and business operations project for Indian re
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,git,github" alt="Kotlin, Android Studio, Gradle, Git and GitHub" />
 </p>
 
-## 馃Л How I build
+##  How I build
 
-<details><summary><strong>01 路 Start with a real problem</strong></summary>
+<details><summary><strong>01 | Start with a real problem</strong></summary>
 Understand the user, workflow, constraints, and expected outcome before adding features.
 </details>
 
-<details><summary><strong>02 路 Keep architecture maintainable</strong></summary>
+<details><summary><strong>02 | Keep architecture maintainable</strong></summary>
 Separate UI, business logic, and data responsibilities. Prefer clear state flows and small, testable components.
 </details>
 
-<details><summary><strong>03 路 Treat correctness as a feature</strong></summary>
+<details><summary><strong>03 | Treat correctness as a feature</strong></summary>
 Validate calculations, boundary conditions, data persistence, and database migrations. Avoid claiming quality without test evidence.
 </details>
 
-<details><summary><strong>04 路 Respect user privacy</strong></summary>
+<details><summary><strong>04 | Respect user privacy</strong></summary>
 Prefer on-device processing and transparent network behaviour. Avoid accounts, analytics, advertising, or data collection unless a product genuinely requires them.
 </details>
 
-<details><summary><strong>05 路 Ship thoughtfully</strong></summary>
+<details><summary><strong>05 | Ship thoughtfully</strong></summary>
 Keep documentation current, version releases clearly, and make installation and support information easy to find.
 </details>
 
-## 馃搳 GitHub at a glance
+##  GitHub at a glance
 
 <div align="center">
 <a href="https://github.com/Dr-SuBZeRo"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Dr-SuBZeRo&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=2DD4BF&text_color=CBD5E1" alt="GitHub statistics" /></a>
@@ -158,13 +158,13 @@ Keep documentation current, version releases clearly, and make installation and 
 
 <sub>Statistics and activity visuals are provided by third-party services. Availability, caching, and displayed metrics may vary. GitHub's own contribution graph remains the source of truth for profile contributions.</sub>
 
-## 馃尡 Current direction
+##  Current direction
 
-My focus is to grow a portfolio of dependable, focused Android utilities for real-world use鈥攅specially tools that improve everyday business operations.
+My focus is to grow a portfolio of dependable, focused Android utilities for real-world use-especially tools that improve everyday business operations.
 
 I value steady product improvement, clean implementation, thoughtful interface design, and long-term maintainability over shipping features just to increase feature count.
 
-## 馃 Connect
+##  Connect
 
 <div align="center">
 
@@ -177,6 +177,6 @@ Open a discussion or issue in the relevant project repository.
 
 <img src="https://komarev.com/ghpvc/?username=Dr-SuBZeRo&style=flat-square&color=0F766E&label=Profile%20views" alt="Profile views" />
 
-<sub>Designed and built with purpose by <a href="https://github.com/Dr-SuBZeRo">SuBZeRo</a> 路 Tamil Nadu, India</sub>
+<sub>Designed and built with purpose by <a href="https://github.com/Dr-SuBZeRo">SuBZeRo</a> | Tamil Nadu, India</sub>
 
 </div>
