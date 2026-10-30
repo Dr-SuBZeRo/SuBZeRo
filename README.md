@@ -1,20 +1,24 @@
 <div align="center">
 
 <a href="https://github.com/Dr-SuBZeRo">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:07111F,45:123B5D,100:0F766E&text=SuBZeRo&fontColor=F8FAFC&fontSize=68&fontAlignY=38&desc=PHYSICIAN%20%7C%20INDEPENDENT%20ANDROID%20DEVELOPER&descAlignY=59&descSize=15&animation=fadeIn" width="100%" alt="SuBZeRo profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,35:0B3152,70:0F766E,100:38BDF8&text=SuBZeRo&fontColor=F8FAFC&fontSize=72&fontAlignY=38&desc=PHYSICIAN%20%E2%80%A2%20ANDROID%20DEVELOPER%20%E2%80%A2%20PRODUCT%20BUILDER&descAlignY=59&descSize=15&animation=twinkling" width="100%" alt="Animated SuBZeRo profile banner" />
 </a>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+useful+Android+software.;Turning+real+problems+into+simple+tools.;Kotlin+%7C+Jetpack+Compose+%7C+Clean+Architecture." alt="Animated introduction" />
 
 <br/>
 
-<a href="https://github.com/Dr-SuBZeRo"><img src="https://img.shields.io/badge/GitHub-Dr--SuBZeRo-111827?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
-<a href="https://github.com/Dr-SuBZeRo?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-0F766E?style=for-the-badge&logo=android" alt="Projects" /></a>
-<a href="https://github.com/Dr-SuBZeRo?tab=followers"><img src="https://img.shields.io/github/followers/Dr-SuBZeRo?style=for-the-badge&logo=github&label=Followers&color=123B5D" alt="Followers" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+useful+Android+software.;Turning+real+problems+into+simple+tools.;Kotlin+%E2%80%A2+Jetpack+Compose+%E2%80%A2+Material+3.;Thoughtful+engineering.+Practical+products." alt="Animated introduction" />
 
 <br/><br/>
 
-**I build practical Android applications that make everyday work simpler, clearer, and more reliable.**
+<a href="https://github.com/Dr-SuBZeRo"><img src="https://img.shields.io/badge/GitHub-Dr--SuBZeRo-111827?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+<a href="https://github.com/Dr-SuBZeRo?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-0F766E?style=for-the-badge&logo=android" alt="Explore projects" /></a>
+<a href="https://github.com/Dr-SuBZeRo?tab=followers"><img src="https://img.shields.io/github/followers/Dr-SuBZeRo?style=for-the-badge&logo=github&label=Followers&color=123B5D" alt="GitHub followers" /></a>
+
+<br/><br/>
+
+<strong>I build practical Android applications that make everyday work simpler, clearer, and more reliable.</strong>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
@@ -23,9 +27,9 @@
 <img src="https://img.shields.io/badge/Room-2E7D32?style=flat-square&logo=sqlite&logoColor=white" alt="Room" />
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
 
-<br/>
+<br/><br/>
 
-[About](#about) · [Projects](#featured-projects) · [Tech Stack](#technology--tools) · [Engineering](#how-i-build) · [Connect](#connect)
+<a href="#about">About</a> &nbsp;·&nbsp; <a href="#featured-projects">Projects</a> &nbsp;·&nbsp; <a href="#technology--tools">Tech stack</a> &nbsp;·&nbsp; <a href="#how-i-build">Engineering</a> &nbsp;·&nbsp; <a href="#connect">Connect</a>
 
 </div>
 
@@ -43,14 +47,16 @@ I bring a problem-solving mindset to software development: understand the real w
 - Prioritising correctness through unit tests, validation, and edge-case handling.
 - Favouring privacy-conscious products with transparent, user-controlled behaviour.
 
-<blockquote>
-  <strong>My approach:</strong> useful features, dependable engineering, and no unnecessary complexity.
-</blockquote>
+<blockquote><strong>My approach:</strong> useful features, dependable engineering, and no unnecessary complexity.</blockquote>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Animated software developer working at a computer" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Animated developer working at a computer" />
   <br/>
-  <sub>Plan carefully. Build deliberately. Improve continuously.</sub>
+  <sub>Plan carefully&nbsp; · &nbsp;Build deliberately&nbsp; · &nbsp;Improve continuously</sub>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,50:0F766E,100:38BDF8&section=header" width="80%" alt="" />
 </div>
 
 ## Featured projects
@@ -114,16 +120,20 @@ An offline-first Android inventory and business operations project for Indian re
 </tr>
 </table>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Dr-SuBZeRo?tab=repositories"><strong>Explore all repositories →</strong></a>
-</p>
+  <br/><br/>
+  <img src="https://media.giphy.com/media/13HgwGsxfjeN6pG4?cid=ecf05e47z9y2lfg3zba6v49p1k5b6bxo8x2b1f2c4e1bf4d8&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" alt="Animated pixel-art coding scene" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,50:0F766E,100:38BDF8&section=header" width="80%" alt="" />
+</div>
 
 ## Technology & tools
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,git,github&theme=dark" alt="Kotlin, Android Studio, Gradle, Git and GitHub" />
-
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,git,github&theme=dark" alt="Kotlin, Android Studio, Gradle, Git and GitHub" />
 </div>
 
 | Area | Tools and technologies |
@@ -137,7 +147,11 @@ An offline-first Android inventory and business operations project for Indian re
 | **Workflow** | Git, GitHub, GitHub Actions, Android Studio |
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Animated coding workflow" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="360" alt="Animated coding workflow" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,50:0F766E,100:38BDF8&section=header" width="80%" alt="" />
 </div>
 
 ## How I build
@@ -172,6 +186,10 @@ Prefer on-device processing and transparent network behaviour. Avoid accounts, a
 Keep documentation current, version releases clearly, and make installation and support information easy to find.
 </details>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,50:0F766E,100:38BDF8&section=header" width="80%" alt="" />
+</div>
+
 ## GitHub at a glance
 
 <div align="center">
@@ -197,13 +215,21 @@ Keep documentation current, version releases clearly, and make installation and 
 
 </div>
 
-<sub>Profile badges, streaks, and trophies are provided by external services. Availability, caching, and displayed metrics may vary. GitHub's own profile remains the source of truth for contribution activity.</sub>
+<sub>Profile badges, streaks, and trophies use third-party services. Availability, caching, and displayed metrics may vary. GitHub's own profile remains the source of truth for contribution activity.</sub>
 
 ## Current direction
 
 My focus is to grow a portfolio of dependable, focused Android utilities for real-world use, especially tools that improve everyday business operations.
 
 I value steady product improvement, clean implementation, thoughtful interface design, and long-term maintainability over shipping features just to increase feature count.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="320" alt="Animated neon progress bar" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,50:0F766E,100:38BDF8&section=header" width="80%" alt="" />
+</div>
 
 ## Connect
 
@@ -214,15 +240,15 @@ I value steady product improvement, clean implementation, thoughtful interface d
 
 <br/><br/>
 
-**Have an idea, found an issue, or want to collaborate?**
+<strong>Have an idea, found an issue, or want to collaborate?</strong>
 
 Open a discussion or issue in the relevant project repository.
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Dr-SuBZeRo&style=flat-square&color=0F766E&label=Profile%20views" alt="Profile views" />
 
-<br/>
+<br/><br/>
 
 <sub>Designed and built with purpose by <a href="https://github.com/Dr-SuBZeRo">SuBZeRo</a> · Tamil Nadu, India</sub>
 
